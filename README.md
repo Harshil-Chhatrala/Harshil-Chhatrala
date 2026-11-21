@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Harshil-Chhatrala
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in Python Development and Cyber Security
 
 <!---
 Harshil-Chhatrala/Harshil-Chhatrala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
